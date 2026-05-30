@@ -46,3 +46,5 @@ La consola muestra cómo la aplicación ha procesado exitosamente la carga inici
 # COMPROBACIONES
 
 ## POSTMAN
+
+Muestra la respuesta exitosa (código 200 OK) al consumir el endpoint `/hardware/imperativo`. El formato JSON resultante presenta los datos procesados del inventario, incluyendo métricas como el valor total, el precio promedio y el equipo de mayor costo por categoría.
