@@ -22,3 +22,5 @@ La capa ai está diseñada para albergar funcionalidades de procesamiento inteli
 La capa entity define el modelo de datos de la aplicación, representando las tablas de la base de datos como objetos de Java. En HardwareEntity.java, se establecen las propiedades y reglas de los objetos que el sistema gestiona, como el modelo, precio y estado del hardware.
 
 ![Estructura de directorios](6.png)
+
+La ejecución de `docker compose up -d` despliega y levanta en segundo plano los servicios definidos, en este caso, una base de datos PostgreSQL necesaria para la aplicación. El comando final `docker ps` permite verificar que el contenedor (llamado inventario-postgres) esté activo y muestra detalles como su estado, los puertos expuestos y el tiempo de ejecución.
