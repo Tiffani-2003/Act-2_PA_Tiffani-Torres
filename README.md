@@ -26,3 +26,6 @@ La capa entity define el modelo de datos de la aplicación, representando las ta
 La ejecución de `docker compose up -d` despliega y levanta en segundo plano los servicios definidos, en este caso, una base de datos PostgreSQL necesaria para la aplicación. El comando final `docker ps` permite verificar que el contenedor (llamado inventario-postgres) esté activo y muestra detalles como su estado, los puertos expuestos y el tiempo de ejecución.
 
 ![Estructura de directorios](7.png)
+
+La ejecución del programa muestra cómo Hibernate realiza la inserción masiva de datos en la base de datos PostgreSQL, confirmando al final la carga exitosa de 10,000 registros. Este proceso asegura que el entorno esté correctamente configurado y listo para las operaciones de consulta y análisis de hardware.
+
