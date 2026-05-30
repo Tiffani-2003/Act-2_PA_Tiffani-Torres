@@ -34,3 +34,6 @@ La ejecución del programa muestra cómo Hibernate realiza la inserción masiva 
 La ejecución del programa confirma que el servidor embebido `Tomcat` se ha iniciado correctamente, habilitando el `puerto 8080` para escuchar y gestionar las peticiones web de la aplicación. Esto permite que el sistema esté listo para interactuar con los usuarios y procesar las operaciones de inventario a través de la interfaz web configurada.
 
 ![Estructura de directorios](9.png)
+
+# COMPROBACIONES
+
