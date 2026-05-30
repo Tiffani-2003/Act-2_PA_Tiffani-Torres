@@ -20,3 +20,5 @@ La capa ai está diseñada para albergar funcionalidades de procesamiento inteli
 ![Estructura de directorios](5.png)
 
 La capa entity define el modelo de datos de la aplicación, representando las tablas de la base de datos como objetos de Java. En HardwareEntity.java, se establecen las propiedades y reglas de los objetos que el sistema gestiona, como el modelo, precio y estado del hardware.
+
+![Estructura de directorios](6.png)
