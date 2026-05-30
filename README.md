@@ -74,3 +74,8 @@ Muestra la respuesta en formato JSON tras acceder a `http://localhost:8080/hardw
 Muestra el resultado del endpoint `/hardware/resumen`, el cual presenta un reporte textual generado dinámicamente mediante el `AiService`. Esta vista confirma que el sistema es capaz de realizar análisis de alto nivel sobre la información del inventario y entregar reportes legibles para el usuario final.
 
 ![Estructura de directorios](16.png)
+
+## DESDE EL NAVEGADOR 
+
+Al ingresar a `http://localhost:8080/hardware/resumen` desde el navegador, se despliega el reporte generado por el `AiService`. Esta vista permite visualizar de forma directa el resumen inteligente del inventario, confirmando que la lógica de análisis se ejecutó exitosamente.
+
