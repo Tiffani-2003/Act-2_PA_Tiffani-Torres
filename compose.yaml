@@ -1,0 +1,10 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: inventario-postgres
+    environment:
+      POSTGRES_DB: inventario_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
