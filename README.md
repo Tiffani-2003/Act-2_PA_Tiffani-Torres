@@ -14,3 +14,5 @@ La capa repository actúa como el puente de comunicación con la base de datos, 
 La capa controller gestiona las solicitudes HTTP entrantes y define los puntos de acceso (endpoints) de la API. En HardwareController.java, se exponen las funcionalidades del sistema mediante anotaciones @GetMapping, coordinando la interacción entre el cliente y la lógica definida en los servicios.
 
 ![Estructura de directorios](4.png)
+
+La capa ai está diseñada para albergar funcionalidades de procesamiento inteligente o análisis avanzado de datos. En este archivo AiService.java, se encapsula la lógica para generar reportes dinámicos y formateados que presentan de forma estructurada los resultados procesados por el sistema.
