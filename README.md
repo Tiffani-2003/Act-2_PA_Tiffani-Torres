@@ -51,4 +51,6 @@ Muestra la respuesta exitosa (código 200 OK) al consumir el endpoint `/hardware
 
 ![Estructura de directorios](12.png)
 
+## DESDE EL NAVEGADOR 
+
 
