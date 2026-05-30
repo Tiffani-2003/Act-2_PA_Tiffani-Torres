@@ -79,3 +79,4 @@ Muestra el resultado del endpoint `/hardware/resumen`, el cual presenta un repor
 
 Al ingresar a `http://localhost:8080/hardware/resumen` desde el navegador, se despliega el reporte generado por el `AiService`. Esta vista permite visualizar de forma directa el resumen inteligente del inventario, confirmando que la lógica de análisis se ejecutó exitosamente.
 
+![Estructura de directorios](17.png)
