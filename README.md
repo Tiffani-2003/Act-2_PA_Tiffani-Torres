@@ -24,3 +24,5 @@ La capa entity define el modelo de datos de la aplicación, representando las ta
 ![Estructura de directorios](6.png)
 
 La ejecución de `docker compose up -d` despliega y levanta en segundo plano los servicios definidos, en este caso, una base de datos PostgreSQL necesaria para la aplicación. El comando final `docker ps` permite verificar que el contenedor (llamado inventario-postgres) esté activo y muestra detalles como su estado, los puertos expuestos y el tiempo de ejecución.
+
+![Estructura de directorios](7.png)
