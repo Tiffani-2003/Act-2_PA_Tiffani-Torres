@@ -18,3 +18,5 @@ La capa controller gestiona las solicitudes HTTP entrantes y define los puntos d
 La capa ai está diseñada para albergar funcionalidades de procesamiento inteligente o análisis avanzado de datos. En este archivo AiService.java, se encapsula la lógica para generar reportes dinámicos y formateados que presentan de forma estructurada los resultados procesados por el sistema.
 
 ![Estructura de directorios](5.png)
+
+La capa entity define el modelo de datos de la aplicación, representando las tablas de la base de datos como objetos de Java. En HardwareEntity.java, se establecen las propiedades y reglas de los objetos que el sistema gestiona, como el modelo, precio y estado del hardware.
