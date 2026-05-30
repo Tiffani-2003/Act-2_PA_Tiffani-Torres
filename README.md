@@ -66,3 +66,5 @@ Muestra los resultados obtenidos tras invocar el endpoint `/hardware/funcional`,
 ## DESDE EL NAVEGADOR 
 
 Muestra la respuesta en formato JSON tras acceder a `http://localhost:8080/hardware/funcional`, confirmando que el servicio procesa correctamente los datos. Esta vista permite verificar de forma rápida y directa que la API está entregando la información estructurada según la lógica funcional implementada.
+
+![Estructura de directorios](15.png)
