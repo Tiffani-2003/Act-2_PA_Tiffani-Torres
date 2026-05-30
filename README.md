@@ -9,3 +9,4 @@ La capa service contiene la lógica de negocio de la aplicación, donde se proce
 
 La capa repository actúa como el puente de comunicación con la base de datos, permitiendo realizar operaciones de persistencia de forma sencilla. En HardwareRepository.java, al extender JpaRepository, el sistema obtiene automáticamente métodos listos para consultar, guardar o eliminar datos de la entidad HardwareEntity.
 
+![Estructura de directorios](3.png)
