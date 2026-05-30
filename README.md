@@ -29,3 +29,4 @@ La ejecución de `docker compose up -d` despliega y levanta en segundo plano los
 
 La ejecución del programa muestra cómo Hibernate realiza la inserción masiva de datos en la base de datos PostgreSQL, confirmando al final la carga exitosa de 10,000 registros. Este proceso asegura que el entorno esté correctamente configurado y listo para las operaciones de consulta y análisis de hardware.
 
+![Estructura de directorios](8.png)
