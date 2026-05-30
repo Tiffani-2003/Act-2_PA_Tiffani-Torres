@@ -5,3 +5,4 @@ src contiene el código fuente de nuestra aplicación, mientras que build almace
 
 La capa service contiene la lógica de negocio de la aplicación, donde se procesan y transforman los datos provenientes del repositorio. En este archivo HardwareService.java, se implementan los algoritmos y cálculos necesarios para generar reportes, como el agrupamiento y análisis de hardware por categoría.
 
+![Estructura de directorios](2.png)
