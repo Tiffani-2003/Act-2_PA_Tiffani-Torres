@@ -61,3 +61,5 @@ Al acceder a `http://localhost:8080/hardware/imperativo` desde el navegador, se 
 
 Muestra los resultados obtenidos tras invocar el endpoint `/hardware/funcional`, confirmando que la lógica aplicada devuelve correctamente los cálculos de inventario en formato JSON. Esta prueba valida que tanto el procesamiento de datos como la exposición del servicio funcionan según lo esperado.
 
+![Estructura de directorios](14.png)
+
