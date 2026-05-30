@@ -41,3 +41,4 @@ La ejecución del comando `docker exec -it inventario-postgres psql -U postgres`
 
 La consola muestra cómo la aplicación ha procesado exitosamente la carga inicial de datos y se encuentra operando correctamente en el `puerto 8080`. Esto indica que el servidor web `Tomcat` está listo para recibir y gestionar las peticiones de los usuarios a través de la API del sistema de inventario.
 
+![Estructura de directorios](11.png)
