@@ -12,3 +12,5 @@ La capa repository actúa como el puente de comunicación con la base de datos, 
 ![Estructura de directorios](3.png)
 
 La capa controller gestiona las solicitudes HTTP entrantes y define los puntos de acceso (endpoints) de la API. En HardwareController.java, se exponen las funcionalidades del sistema mediante anotaciones @GetMapping, coordinando la interacción entre el cliente y la lógica definida en los servicios.
+
+![Estructura de directorios](4.png)
