@@ -54,3 +54,6 @@ Muestra la respuesta exitosa (código 200 OK) al consumir el endpoint `/hardware
 ## DESDE EL NAVEGADOR 
 
 Al acceder a `http://localhost:8080/hardware/imperativo` desde el navegador, se visualiza la respuesta en formato JSON que devuelve la API. Esta vista confirma que el servidor está respondiendo correctamente y muestra los resultados procesados de los datos de inventario consultados.
+
+![Estructura de directorios](13.png)
+
