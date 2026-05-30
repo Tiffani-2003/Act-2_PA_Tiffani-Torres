@@ -35,5 +35,5 @@ La ejecución del programa confirma que el servidor embebido `Tomcat` se ha inic
 
 ![Estructura de directorios](9.png)
 
-# COMPROBACIONES
+La ejecución del comando `docker exec -it inventario-postgres psql -U postgres` permite acceder interactivamente a la consola de PostgreSQL dentro del contenedor, facilitando la administración directa de la base de datos. Al usar el comando `\dt`, el sistema lista las tablas existentes, confirmando exitosamente que la tabla `hardware` ha sido creada y está lista para almacenar la información del proyecto.
 
